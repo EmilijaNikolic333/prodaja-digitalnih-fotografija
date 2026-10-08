@@ -1,0 +1,11 @@
+# NetBeans / Ant izlaz
+**/build/
+**/dist/
+**/nbproject/private/
+
+# OS i IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+*.class
+*.log
